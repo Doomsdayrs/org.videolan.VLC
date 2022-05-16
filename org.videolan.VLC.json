@@ -805,7 +805,7 @@
         {
           "type": "git",
           "url": "https://code.videolan.org/videolan/vlc.git",
-          "branch": "e4a624ac8c7e06f3a42aed0fe421b2c53339ba2d"
+          "branch": "4bd922622bad08cd3cdc60742ed8fd8d36b40c72"
         },
         {
           "type": "file",
